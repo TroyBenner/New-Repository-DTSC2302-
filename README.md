@@ -1,1 +1,1 @@
-# New-Repository-DTSC2302-
+# DemoProject-DTSC2302-
